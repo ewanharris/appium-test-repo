@@ -1,0 +1,7 @@
+{
+    "appium":  {
+        "platformName": "iOS",
+        "platformVersion": "11.2",
+        "deviceName": "iPhone 8"
+    }
+}
